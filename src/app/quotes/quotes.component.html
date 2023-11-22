@@ -1,0 +1,16 @@
+<div class="container-fluid">
+<div class="row ">
+    <div class="col-sm-12">
+      <ul class="list-group list-group-flush">
+        <li *ngFor="let quote of quotes" class="list-group-item text-center">
+          <h5>"{{ quote?.sentence }}"</h5>
+          <p>{{ quote?.character?.name }}</p>
+        </li>
+      </ul>
+      <div>
+        <button class="btn btn-outline-dark" (click)="replaceQuotes()">Replace Quotes</button>
+      </div>
+    </div>
+  </div>
+  <br>
+</div>

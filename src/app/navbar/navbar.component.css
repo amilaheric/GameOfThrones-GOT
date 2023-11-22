@@ -1,0 +1,12 @@
+*{
+    background-color: #202020;
+}
+.nav-link{
+    color: #aa2428;
+}
+a{
+    font-size: x-large;
+}
+a:hover {
+    color: #f8ac4c;
+}

@@ -1,0 +1,18 @@
+  *,.personLink {
+    background-color: #202020;
+    border: #202020;
+    color:#aa2428;
+    text-decoration: none;
+  }
+  .personLink:hover {
+    background-color: #202020;
+    border: #202020;
+    color:#f8ac4c;
+    text-decoration: none;
+  }
+  p {
+    color:#f8ac4c;
+  }
+  h5 {
+    font-size: x-large ;
+  }

@@ -1,0 +1,15 @@
+.houseLink {
+    color: #aa2428;; 
+    text-decoration: none; 
+  }
+
+  .houseLink:hover {
+    color: #f8ac4c; 
+    text-decoration: none; 
+  }
+
+  *, .list-group {
+    background-color: #202020;
+    border: #202020;
+    color: #f8ac4c;
+  }
